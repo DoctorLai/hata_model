@@ -1,0 +1,38 @@
+{
+  "name": "hata_model",
+  "version": "1.0.0",
+  "description": "HATA Propagation Model",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoctorLai/hata_model.git"
+  },
+  "keywords": [
+    "hata",
+    "model",
+    "wireless",
+    "propagation",
+    "path",
+    "loss",
+    "urban",
+    "propagation"
+  ],
+  "author": "justyy <dr.zhihua.lai@gmail.com> (https://helloacm.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DoctorLai/hata_model/issues"
+  },
+  "homepage": "https://github.com/DoctorLai/hata_model#readme"
+}
