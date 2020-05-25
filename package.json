@@ -1,6 +1,6 @@
 {
   "name": "hata_model",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "HATA Propagation Model",
   "main": "index.js",
   "directories": {
